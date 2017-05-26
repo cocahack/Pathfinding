@@ -1,6 +1,4 @@
 # Pathfinding
-=============
-
 
 Problem 
 -------

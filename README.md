@@ -15,7 +15,7 @@ Input and output should be text files.
 Example
 -------
 
-Input: 
+Input: <br/>
   1100020111<br/>
   1010110001<br/>
   0000011100<br/>
@@ -25,9 +25,9 @@ Input:
   1110101010<br/>
   1110100110<br/>
   1101110100<br/>
-  1000030000
+  1000030000<br/>
 
-Output - Right angle case:
+Output - Right angle case:<br/>
   1100028111<br/>
   1010118881<br/>
   0000011188<br/>
@@ -39,7 +39,7 @@ Output - Right angle case:
   1101118100<br/>
   1000038000
 
-Output - Diagonal movement case:
+Output - Diagonal movement case:<br/>
   1100820111<br/>
   1018110001<br/>
   0000811100<br/>
@@ -49,5 +49,4 @@ Output - Diagonal movement case:
   1110181010<br/>
   1110180110<br/>
   1101118100<br/>
-  1000030000
-
+  1000030000<br/>
